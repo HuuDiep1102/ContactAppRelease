@@ -1,0 +1,6 @@
+module Pods_TrueApp {
+  umbrella header "Pods-TrueApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
